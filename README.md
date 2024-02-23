@@ -15,4 +15,4 @@ Html, Scss,JavaScript and RapidAPI.
 
 ![](screen.gif)
 # spotifyClone
-# spotifyClone
+
